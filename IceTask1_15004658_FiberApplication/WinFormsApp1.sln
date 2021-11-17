@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IceTask1_15004658_FiberApplication", "WinFormsApp1\IceTask1_15004658_FiberApplication.csproj", "{081A9EDA-A7B9-4528-8184-BD09277CC52B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{081A9EDA-A7B9-4528-8184-BD09277CC52B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{081A9EDA-A7B9-4528-8184-BD09277CC52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{081A9EDA-A7B9-4528-8184-BD09277CC52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{081A9EDA-A7B9-4528-8184-BD09277CC52B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BED2CA5-8835-442E-A827-E71D01BB46CD}
+	EndGlobalSection
+EndGlobal
